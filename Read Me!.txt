@@ -1,0 +1,24 @@
+* Game: Tic-Tac-Toe
+*
+* Version: 1.0
+* 
+* Creator: Franz
+*
+* Date of Creation: 5/15/2023
+*
+* Description: Tic-tac-toe game created entirely in C++. Game features two modes,
+* a one-player mode with the user against a CPU, and a two-player mode allowing
+* two users to play.
+*
+* Future Updates: 
+* - Sounds and SFX
+* - Randomized Turns
+* - Bigger Boards
+* - Bug Fixes
+*
+* How To Play:
+* - Run the shortcut "Tic-Tac-Toe" with the logo or the executable.
+* - Enjoy.
+*
+*
+* ©2023 Franz Lor. All rights reserved.

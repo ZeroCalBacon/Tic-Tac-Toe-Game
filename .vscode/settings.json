@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "limits": "cpp",
+        "cmath": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "xiosbase": "cpp",
+        "chrono": "cpp",
+        "charconv": "cpp",
+        "xstring": "cpp",
+        "thread": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "cstdlib": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
